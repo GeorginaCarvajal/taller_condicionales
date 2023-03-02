@@ -64,7 +64,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="17" value="F" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="330" width="60" height="30" as="geometry"/>
+                    <mxGeometry x="210" y="330" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="18" value="V" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="370" y="330" width="60" height="30" as="geometry"/>
