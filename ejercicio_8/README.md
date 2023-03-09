@@ -1,7 +1,5 @@
 # taller_condicionales
-# Ejercicio_1
-Programa que lea las coordenadas cartesianas (x, y) de un punto en el plano y
-calcule el cuadrante al cual pertenece el punto. Si el punto está sobre un eje
-también debe indicarlo.
+# Ejercicio_8
+Programa que lea dos números enteros y averigüe si el uno es múltiplo del otro.
 # Diagrama de flujo
-![diagrama de flujo](diagrama.png "diagrama de flujo")
+![diagrama de flujo](diagrama_8.png "diagrama de flujo")

@@ -1,7 +1,8 @@
 # taller_condicionales
-# Ejercicio_1
-Programa que lea las coordenadas cartesianas (x, y) de un punto en el plano y
-calcule el cuadrante al cual pertenece el punto. Si el punto está sobre un eje
-también debe indicarlo.
+# Ejercicio_6
+Calcular e imprimir las raíces de la ecuación de segundo grado de coeficientes
+reales. El programa debe tener en cuenta los diferentes casos que puedan surgir:
+la existencia de dos raíces reales distintas, de dos raíces reales iguales y de dos
+raíces complejas.
 # Diagrama de flujo
-![diagrama de flujo](diagrama.png "diagrama de flujo")
+![diagrama de flujo](diagrama_6.png "diagrama de flujo")
