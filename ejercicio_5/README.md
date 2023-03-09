@@ -1,7 +1,10 @@
 # taller_condicionales
-# Ejercicio_1
-Programa que lea las coordenadas cartesianas (x, y) de un punto en el plano y
-calcule el cuadrante al cual pertenece el punto. Si el punto está sobre un eje
-también debe indicarlo.
+# Ejercicio_5
+Calcular el gasto de agua de una vivienda dado el número de m2 de agua
+gastados, siendo el sistema de cobro el siguiente:
+• La cuota fija mensual es de $10000.
+• Los primeros 50 m2 son gratis.
+• Entre 50 y 200 m2 se cobra el m2 a $2000.
+• A partir de 200 m2 se cobra el m2 a $3000.
 # Diagrama de flujo
-![diagrama de flujo](diagrama.png "diagrama de flujo")
+![diagrama de flujo](diagrama_5.png "diagrama de flujo")
